@@ -1,0 +1,11 @@
+.u-section-1 {
+  background-image: url("images/HyperClientBanner.png?rand=4b79");
+  background-position: 50% 50%;
+  min-height: 100vh;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 {
+    min-height: 664px;
+  }
+}
